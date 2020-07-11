@@ -6,9 +6,9 @@
 * Data sourcing 
 * Data cleaning
 * Feature Engineering
-  ** Univariate analysis
-  ** Bivariate analysis
-  ** Derived metrics
+  * Univariate analysis
+  * Bivariate analysis
+  * Derived metrics
 * Data transformation
 * Feature Extraction 
 
